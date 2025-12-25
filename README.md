@@ -8,9 +8,13 @@ The dashboard helps business stakeholders make data-driven decisions by visualiz
 ## 📊 Key Business Metrics
 
 Total   Quantity Sold	117K
+
 Total   Sales	770K
+
 Total   Profit	768K
+
 Total   Orders	254
+
 Average  Sales	3K
 
 ## 📈 Dashboard Features
