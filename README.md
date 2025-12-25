@@ -70,7 +70,7 @@ Data Visualization
 
 🧩 Dashboard Preview
 
-()
+(Dashboard photo.png)
 
 ## 🎯 Project Objective
 
