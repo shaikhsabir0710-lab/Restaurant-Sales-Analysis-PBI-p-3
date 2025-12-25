@@ -70,7 +70,7 @@ Data Visualization
 
 🧩 Dashboard Preview
 
-(Dashboard photo.png)
+(https://github.com/shaikhsabir0710-lab/Restaurant-Sales-Analysis-PBI-p-3/blob/main/Dashboard%20photo.png)
 
 ## 🎯 Project Objective
 
