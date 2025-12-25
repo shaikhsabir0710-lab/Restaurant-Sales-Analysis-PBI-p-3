@@ -6,7 +6,7 @@ This project presents an interactive Restaurant Sales Analysis Dashboard built u
 The dashboard helps business stakeholders make data-driven decisions by visualizing key performance metrics in a simple and intuitive format.
 
 ## 📊 Key Business Metrics
-Metric 	Value
+
 Total   Quantity Sold	117K
 Total   Sales	770K
 Total   Profit	768K
