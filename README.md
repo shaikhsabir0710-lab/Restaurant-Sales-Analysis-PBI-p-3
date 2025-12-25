@@ -85,7 +85,7 @@ To transform raw sales data into actionable business intelligence that supports:
 4.Customer behavior analysis
 
 Linkdin Profile - [https://www.linkedin.com/in/sabir-shaikh-64163036a]
-
+Email - [shaikhsabir0710@gmail.com]
 ## 👤 Author
 
 Sabir Shaikh
