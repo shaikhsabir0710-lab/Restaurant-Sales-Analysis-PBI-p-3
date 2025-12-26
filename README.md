@@ -84,8 +84,46 @@ To transform raw sales data into actionable business intelligence that supports:
 
 4.Customer behavior analysis
 
+
+## 🧮 SQL Analysis & Data Cleaning
+
+This project includes a complete SQL workflow covering data preparation and business analysis.
+
+### 🔹 Data Cleaning
+- Duplicate detection using window functions  
+- NULL value validation  
+- Data standardization (trimming inconsistent values)
+
+### 🔹 Business Questions Solved Using SQL
+1. Total Sales  
+2. Total Quantity Sold  
+3. Total Orders  
+4. Average Sales by Product  
+5. Product-wise Sales  
+6. Payment Method-wise Sales  
+7. Purchase Type-wise Sales  
+8. Manager-wise Top Sales  
+9. Product-wise Quantity Sold  
+10. Product & City-wise Sales Performance  
+
+### 🔹 SQL Concepts Used
+- CTEs  
+- Window Functions  
+- Aggregations  
+- Group By  
+- Ranking  
+- Data Cleaning Techniques
+  
+### 🏁 Conclusion
+
+This project demonstrates a complete data analytics workflow — from data cleaning and SQL-based business analysis to interactive dashboard development in Power BI.
+By combining technical skills with business understanding, this solution delivers meaningful insights that support better decision-making across product strategy, sales performance, customer behavior, and regional growth.
+
+This project reflects real-world data analyst responsibilities and showcases strong capabilities in SQL, DAX, Power BI, and business intelligence storytelling.
+
 Linkdin Profile - [https://www.linkedin.com/in/sabir-shaikh-64163036a]
 Email - [shaikhsabir0710@gmail.com]
+
 ## 👤 Author
 
 Sabir Shaikh
