@@ -121,7 +121,7 @@ By combining technical skills with business understanding, this solution deliver
 
 This project reflects real-world data analyst responsibilities and showcases strong capabilities in SQL, DAX, Power BI, and business intelligence storytelling.
 
-# 🐍 Python Analysis
+# 3.🐍 Python Analysis
 This project also includes a complete business analysis performed using Python to validate results and strengthen insights  obtained from SQL and Power BI.
 
 # 📌 Objectives
@@ -147,7 +147,7 @@ The Python analysis focuses on answering the following business questions:
 
 10.Product & City-wise Sales Distribution
 
-#🧰 Tools & Libraries Used
+# 🧰 Tools & Libraries Used
 
 1.Python
 
@@ -157,7 +157,7 @@ The Python analysis focuses on answering the following business questions:
 
 4.Jupyter Notebook
 
-#🔍 Key Analysis Tasks
+# 🔍 Key Analysis Tasks
 
 #Data loading and preprocessing
 
@@ -169,7 +169,7 @@ The Python analysis focuses on answering the following business questions:
 
 4.Cross-validation of results with SQL outputs
 
-#📈 Visualizations Created
+# 📈 Visualizations Created
 
 1.Sales trend line charts
 
@@ -179,12 +179,12 @@ The Python analysis focuses on answering the following business questions:
 
 4.City-wise sales comparison visuals
 
-#🧾 Python Analysis Conclusion
+# 🧾 Python Analysis Conclusion
 
 The Python analysis successfully addressed all business requirements and validated insights generated from SQL queries and Power BI dashboards.
 This multi-layered approach demonstrates strong analytical skills and a practical understanding of real-world data workflows.
 
-##🏁 Final Conclusion
+# 🏁 Final Conclusion
 
 This project demonstrates a complete end-to-end data analytics workflow by solving the same business problem using SQL, 
 Python, and Power BI.
