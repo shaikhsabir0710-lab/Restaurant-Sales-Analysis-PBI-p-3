@@ -122,6 +122,7 @@ By combining technical skills with business understanding, this solution deliver
 This project reflects real-world data analyst responsibilities and showcases strong capabilities in SQL, DAX, Power BI, and business intelligence storytelling.
 
 Linkdin Profile - [https://www.linkedin.com/in/sabir-shaikh-64163036a]
+
 Email - [shaikhsabir0710@gmail.com]
 
 ## 👤 Author
