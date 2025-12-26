@@ -121,6 +121,81 @@ By combining technical skills with business understanding, this solution deliver
 
 This project reflects real-world data analyst responsibilities and showcases strong capabilities in SQL, DAX, Power BI, and business intelligence storytelling.
 
+# 🐍 Python Analysis
+# This project also includes a complete business analysis performed using Python to validate results and strengthen insights  obtained from SQL and Power BI.
+
+# 📌 Objectives
+# The Python analysis focuses on answering the following business questions:
+
+1.Total Sales
+
+2.Total Quantity Sold
+
+3.Total Orders
+
+4.Average Sales by Product
+
+5.Product-wise Total Sales
+
+6.Payment Method-wise Sales
+
+7.Purchase Type-wise Sales
+
+8.Manager-wise Sales Performance
+
+9.Product-wise Quantity Sold
+
+10.Product & City-wise Sales Distribution
+
+# 🧰 Tools & Libraries Used
+
+1.Python
+
+2.Pandas
+
+3.Matplotlib
+
+4.Jupyter Notebook
+
+# 🔍 Key Analysis Tasks
+
+# Data loading and preprocessing
+
+1.Business metric calculations
+
+2.Group-wise aggregations and summaries
+
+3.Visual trend analysis using charts
+
+4.Cross-validation of results with SQL outputs
+
+📈 Visualizations Created
+
+1.Sales trend line charts
+
+2.Product performance bar charts
+
+3.Payment method distribution pie charts
+
+4.City-wise sales comparison visuals
+
+# 🧾 Python Analysis Conclusion
+
+The Python analysis successfully addressed all business requirements and validated insights generated from SQL queries and Power BI dashboards.
+This multi-layered approach demonstrates strong analytical skills and a practical understanding of real-world data workflows.
+
+## 🏁 Final Conclusion
+
+This project demonstrates a complete end-to-end data analytics workflow by solving the same business problem using SQL, 
+Python, and Power BI.
+
+1.SQL was used for data cleaning, validation, and efficient business querying.
+2.Python was used for deeper analysis, aggregation, and visual validation.
+3.Power BI was used to convert analytical insights into an interactive business dashboard.
+
+By applying multiple tools to the same dataset, the analysis ensures accuracy, consistency, and reliability of insights.
+This approach reflects real-world data analyst responsibilities and showcases strong technical, analytical, and business intelligence skills.
+
 Linkdin Profile - [https://www.linkedin.com/in/sabir-shaikh-64163036a]
 
 Email - [shaikhsabir0710@gmail.com]
