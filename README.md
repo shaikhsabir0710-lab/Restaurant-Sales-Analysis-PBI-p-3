@@ -1,4 +1,4 @@
-##1. 🍽️ Restaurant Sales Analysis Dashboard (Power BI)
+## 1. 🍽️ Restaurant Sales Analysis Dashboard (Power BI)
 # 📌 Project Overview
 
 This project presents an interactive Restaurant Sales Analysis Dashboard built using Power BI, designed to provide clear business insights into sales performance, product trends, manager performance, customer behavior, and profitability across multiple cities.
@@ -85,7 +85,7 @@ To transform raw sales data into actionable business intelligence that supports:
 4.Customer behavior analysis
 
 
-##2. 🧮 SQL Analysis & Data Cleaning
+## 2. 🧮 SQL Analysis & Data Cleaning
 
 This project includes a complete SQL workflow covering data preparation and business analysis.
 
